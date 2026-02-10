@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "stageId": "Test Stage",
+    "name": "Andre Test Stage",
+    "version": "1.0",
+    "createdAt": "2026-02-03T09:12:18.271Z",
+    "distanceUnit": "km",
+    "author": "Andre",
+    "offline": true
+  },
+  "settings": {
+    "defaultWaypointRadius": 30,
+    "highlightWindowKm": 0.3
+  },
+  "items": [
+    {
+      "id": "rb-001",
+      "distance": 0,
+      "title": "START",
+      "note": "Start  NNE",
+      "tulip": {
+        "file": "start.png",
+        "orientation": "south"
+      },
+      "waypointId": "wp-start"
+    },
+    {
+      "id": "rb-002",
+      "distance": 2.85,
+      "title": "Point 1",
+      "note": "Straight at intersection",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "south"
+      },
+      "waypointId": "wp-point-1"
+    },
+    {
+      "id": "rb-003",
+      "distance": 3.8,
+      "title": "Point 2",
+      "note": "Left at intersection - W",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "south"
+      },
+      "waypointId": "wp-point-2"
+    },
+    {
+      "id": "rb-004",
+      "distance": 8.16,
+      "title": "Point 3",
+      "note": "Caution - Hairpin to left",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "south"
+      },
+      "waypointId": "wp-point-3"
+    },
+    {
+      "id": "rb-005",
+      "distance": 11.31,
+      "title": "Point 4",
+      "note": "Right at junction",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "south"
+      },
+      "waypointId": "wp-point-4"
+    },
+    {
+      "id": "rb-006",
+      "distance": 11.78,
+      "title": "Point 5",
+      "note": "Left on slipway",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "south"
+      },
+      "waypointId": "wp-point-5"
+    },
+    {
+      "id": "rb-007",
+      "distance": 12.3,
+      "title": "Point 6",
+      "note": "Right at junction",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "south"
+      },
+      "waypointId": "wp-point-6"
+    },
+    {
+      "id": "rb-008",
+      "distance": 13.26,
+      "title": "Point 7",
+      "note": "Straight",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "south"
+      },
+      "waypointId": "wp-point-7"
+    },
+    {
+      "id": "rb-009",
+      "distance": 13.67,
+      "title": "Point 8",
+      "note": "Straight",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "south"
+      },
+      "waypointId": "wp-point-8"
+    },
+    {
+      "id": "rb-010",
+      "distance": 13.83,
+      "title": "Point 9",
+      "note": "Straight across junction",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "south"
+      },
+      "waypointId": "wp-point-9"
+    },
+    {
+      "id": "rb-011",
+      "distance": 15.29,
+      "title": "FINISH",
+      "note": "Caution sharp left",
+      "tulip": {
+        "file": "left.png",
+        "orientation": "west"
+      },
+      "waypointId": "wp-finish"
+    },
+    {
+      "id": "rb-012",
+      "distance": 15.29,
+      "title": "Point 10",
+      "note": "Point 10",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "south"
+      },
+      "waypointId": "wp-point-10"
+    }
+  ],
+  "waypoints": [
+    {
+      "id": "wp-start",
+      "name": "Start",
+      "lat": -33.8746856,
+      "lng": 18.6317736,
+      "radius": 30
+    },
+    {
+      "id": "wp-point-1",
+      "name": "Point 1",
+      "lat": -33.8499101,
+      "lng": 18.6293677,
+      "radius": 30
+    },
+    {
+      "id": "wp-point-2",
+      "name": "Point 2",
+      "lat": -33.8428113,
+      "lng": 18.6238393,
+      "radius": 30
+    },
+    {
+      "id": "wp-point-3",
+      "name": "Point 3",
+      "lat": -33.8262418,
+      "lng": 18.5896855,
+      "radius": 30
+    },
+    {
+      "id": "wp-point-4",
+      "name": "Point 4",
+      "lat": -33.8225138,
+      "lng": 18.5582989,
+      "radius": 30
+    },
+    {
+      "id": "wp-point-5",
+      "name": "Point 5",
+      "lat": -33.8185786,
+      "lng": 18.557651,
+      "radius": 30
+    },
+    {
+      "id": "wp-point-6",
+      "name": "Point 6",
+      "lat": -33.8182743,
+      "lng": 18.552221,
+      "radius": 30
+    },
+    {
+      "id": "wp-point-7",
+      "name": "Point 7",
+      "lat": -33.8107277,
+      "lng": 18.5490754,
+      "radius": 30
+    },
+    {
+      "id": "wp-point-8",
+      "name": "Point 8",
+      "lat": -33.8082508,
+      "lng": 18.5456851,
+      "radius": 30
+    },
+    {
+      "id": "wp-point-9",
+      "name": "Point 9",
+      "lat": -33.8073561,
+      "lng": 18.5444201,
+      "radius": 30
+    },
+    {
+      "id": "wp-finish",
+      "name": "Finish",
+      "lat": -33.7978094,
+      "lng": 18.5348218,
+      "radius": 30
+    },
+    {
+      "id": "wp-point-10",
+      "name": "Point 10",
+      "lat": -33.7978151,
+      "lng": 18.5348096,
+      "radius": 30
+    }
+  ],
+  "assets": {
+    "tulipsPath": "assets/tulips/",
+    "iconsPath": "assets/icons/"
+  }
+}
