@@ -5,11 +5,17 @@
     {
       "id": "ParklandsToBootlegger",
       "name": "Parklands To Bootlegger",
+      "startLocation": "Parklands, Table View, WesternCape",
+      "endLocation": "Clara Anna Fontein, Durbanville, Western Cape",
+      "distance": "12km",
       "file": "ParklandsToBootlegger.json"
     },
     {
       "id": "zone7",
       "name": "Zone 7",
+      "startLocation": "MorningStar, Cape Farms, WesternCape",
+      "endLocation": "Philadelphia, Cape Farms, Western Cape",
+      "distance": "24km",
       "file": "zone7.json"
     }
   ]
