@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "stageId": "DaisyWay",
+    "name": "Daisy Way",
+    "version": "1.0",
+    "createdAt": "2026-02-11T14:36:32.953Z",
+    "distanceUnit": "22.26km",
+    "author": "Andre Welgemoed",
+    "offline": true
+  },
+  "settings": {
+    "defaultWaypointRadius": 30,
+    "highlightWindowKm": 0.3
+  },
+  "items": [
+    {
+      "id": "rb-001",
+      "distance": 0,
+      "title": "Start:S",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-1"
+    },
+    {
+      "id": "rb-002",
+      "distance": 3.81,
+      "title": "Intersection1 Straight:SSW",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-2"
+    },
+    {
+      "id": "rb-003",
+      "distance": 5.09,
+      "title": "Intersection2 Straight:SSW",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-3"
+    },
+    {
+      "id": "rb-004",
+      "distance": 7.27,
+      "title": "Intersection3 Straight:SSW",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-4"
+    },
+    {
+      "id": "rb-005",
+      "distance": 8.51,
+      "title": "Intersection4 Left:ESE",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-5"
+    },
+    {
+      "id": "rb-006",
+      "distance": 8.54,
+      "title": "Intersection5 Right:S",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-6"
+    },
+    {
+      "id": "rb-007",
+      "distance": 9.99,
+      "title": "Alley1 Left:SE",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-7"
+    },
+    {
+      "id": "rb-008",
+      "distance": 10.88,
+      "title": "Bridge1:E",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-8"
+    },
+    {
+      "id": "rb-009",
+      "distance": 11.26,
+      "title": "Intersection6 Right:S",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-9"
+    },
+    {
+      "id": "rb-010",
+      "distance": 11.72,
+      "title": "Straight:S",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-10"
+    },
+    {
+      "id": "rb-011",
+      "distance": 14.72,
+      "title": "Slipway1 Left: E",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-11"
+    },
+    {
+      "id": "rb-012",
+      "distance": 15,
+      "title": "Highway1 Merge:NW",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-12"
+    },
+    {
+      "id": "rb-013",
+      "distance": 16.7,
+      "title": "Slipway2 Left:SW",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-13"
+    },
+    {
+      "id": "rb-014",
+      "distance": 20.54,
+      "title": "Intersection7 Straight:SSW",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-14"
+    },
+    {
+      "id": "rb-015",
+      "distance": 21.03,
+      "title": "Intersection8 Right:SSW",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-15"
+    },
+    {
+      "id": "rb-016",
+      "distance": 21.26,
+      "title": "END",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-16"
+    }
+  ],
+  "waypoints": [
+    {
+      "id": "wp-1",
+      "name": "Start:S",
+      "lat": -33.83014842867851,
+      "lng": 18.484622379764915,
+      "radius": 30
+    },
+    {
+      "id": "wp-2",
+      "name": "Intersection1 Straight:SSW",
+      "lat": -33.8617730140686,
+      "lng": 18.50024700164795,
+      "radius": 30
+    },
+    {
+      "id": "wp-3",
+      "name": "Intersection2 Straight:SSW",
+      "lat": -33.87251056730747,
+      "lng": 18.495239317417145,
+      "radius": 30
+    },
+    {
+      "id": "wp-4",
+      "name": "Intersection3 Straight:SSW",
+      "lat": -33.89065504074097,
+      "lng": 18.486299514770508,
+      "radius": 30
+    },
+    {
+      "id": "wp-5",
+      "name": "Intersection4 Left:ESE",
+      "lat": -33.89986038208008,
+      "lng": 18.478810787200928,
+      "radius": 30
+    },
+    {
+      "id": "wp-6",
+      "name": "Intersection5 Right:S",
+      "lat": -33.90020655468106,
+      "lng": 18.47890231758356,
+      "radius": 30
+    },
+    {
+      "id": "wp-7",
+      "name": "Alley1 Left:SE",
+      "lat": -33.91085106879473,
+      "lng": 18.46983963623643,
+      "radius": 30
+    },
+    {
+      "id": "wp-8",
+      "name": "Bridge1:E",
+      "lat": -33.91546438448131,
+      "lng": 18.47770848311484,
+      "radius": 30
+    },
+    {
+      "id": "wp-9",
+      "name": "Intersection6 Right:S",
+      "lat": -33.91521569341421,
+      "lng": 18.481780663132668,
+      "radius": 30
+    },
+    {
+      "id": "wp-10",
+      "name": "Straight:S",
+      "lat": -33.91926825977862,
+      "lng": 18.480809284374118,
+      "radius": 30
+    },
+    {
+      "id": "wp-11",
+      "name": "Slipway1 Left: E",
+      "lat": -33.946030251681805,
+      "lng": 18.484850535169244,
+      "radius": 30
+    },
+    {
+      "id": "wp-12",
+      "name": "Highway1 Merge:NW",
+      "lat": -33.943919939920306,
+      "lng": 18.486352236941457,
+      "radius": 30
+    },
+    {
+      "id": "wp-13",
+      "name": "Slipway2 Left:SW",
+      "lat": -33.94628170877695,
+      "lng": 18.46814657561481,
+      "radius": 30
+    },
+    {
+      "id": "wp-14",
+      "name": "Intersection7 Straight:SSW",
+      "lat": -33.97673207335174,
+      "lng": 18.448526300489902,
+      "radius": 30
+    },
+    {
+      "id": "wp-15",
+      "name": "Intersection8 Right:SSW",
+      "lat": -33.979570772498846,
+      "lng": 18.452594121918082,
+      "radius": 30
+    },
+    {
+      "id": "wp-16",
+      "name": "END",
+      "lat": -33.98114497773349,
+      "lng": 18.45096291974187,
+      "radius": 30
+    }
+  ],
+  "assets": {
+    "tulipsPath": "assets/tulips/",
+    "iconsPath": "assets/icons/"
+  }
+}
