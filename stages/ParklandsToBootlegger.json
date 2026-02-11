@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "stageId": "ParklandsToBootlegger",
+    "name": "Imported Stage",
+    "version": "1.0",
+    "createdAt": "2026-02-11T07:26:47.208Z",
+    "distanceUnit": "km",
+    "author": "GPX Converter",
+    "offline": true
+  },
+  "settings": {
+    "defaultWaypointRadius": 30,
+    "highlightWindowKm": 0.3
+  },
+  "items": [
+    {
+      "id": "rb-001",
+      "distance": 0,
+      "title": "Start:E",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-1"
+    },
+    {
+      "id": "rb-002",
+      "distance": 2.94,
+      "title": "Hairpin 1 Right:S",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-2"
+    },
+    {
+      "id": "rb-003",
+      "distance": 4.42,
+      "title": "Straight:SE",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-3"
+    },
+    {
+      "id": "rb-004",
+      "distance": 5.7,
+      "title": "Offramp Left:E",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-4"
+    },
+    {
+      "id": "rb-005",
+      "distance": 6.22,
+      "title": "Junction Right:S",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-5"
+    },
+    {
+      "id": "rb-006",
+      "distance": 6.68,
+      "title": "Junction Left:NE",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-6"
+    },
+    {
+      "id": "rb-007",
+      "distance": 9.56,
+      "title": "Hairpin 2 Right:S",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-7"
+    },
+    {
+      "id": "rb-008",
+      "distance": 13.29,
+      "title": "Straight:E",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-8"
+    },
+    {
+      "id": "rb-009",
+      "distance": 14.3,
+      "title": "Junction Left:N",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-9"
+    },
+    {
+      "id": "rb-010",
+      "distance": 15.93,
+      "title": "Circle 1st Exit:N",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-10"
+    },
+    {
+      "id": "rb-011",
+      "distance": 17.06,
+      "title": "Circle 1st Exit:W",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-11"
+    },
+    {
+      "id": "rb-012",
+      "distance": 17.2,
+      "title": "Finish  line",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-12"
+    }
+  ],
+  "waypoints": [
+    {
+      "id": "wp-1",
+      "name": "Start:E",
+      "lat": -33.80083984695375,
+      "lng": 18.503292566165328,
+      "radius": 30
+    },
+    {
+      "id": "wp-2",
+      "name": "Hairpin 1 Right:S",
+      "lat": -33.79751424305141,
+      "lng": 18.53486828505993,
+      "radius": 30
+    },
+    {
+      "id": "wp-3",
+      "name": "Straight:SE",
+      "lat": -33.80771862342954,
+      "lng": 18.54509638622403,
+      "radius": 30
+    },
+    {
+      "id": "wp-4",
+      "name": "Offramp Left:E",
+      "lat": -33.81753668189049,
+      "lng": 18.552158642560244,
+      "radius": 30
+    },
+    {
+      "id": "wp-5",
+      "name": "Junction Right:S",
+      "lat": -33.81834050640464,
+      "lng": 18.55774987488985,
+      "radius": 30
+    },
+    {
+      "id": "wp-6",
+      "name": "Junction Left:NE",
+      "lat": -33.82248896174133,
+      "lng": 18.55826150625944,
+      "radius": 30
+    },
+    {
+      "id": "wp-7",
+      "name": "Hairpin 2 Right:S",
+      "lat": -33.82564223371446,
+      "lng": 18.589084865525365,
+      "radius": 30
+    },
+    {
+      "id": "wp-8",
+      "name": "Straight:E",
+      "lat": -33.84265422821045,
+      "lng": 18.623951487243176,
+      "radius": 30
+    },
+    {
+      "id": "wp-9",
+      "name": "Junction Left:N",
+      "lat": -33.84331195615232,
+      "lng": 18.634834634140134,
+      "radius": 30
+    },
+    {
+      "id": "wp-10",
+      "name": "Circle 1st Exit:N",
+      "lat": -33.8287899736315,
+      "lng": 18.63684461452067,
+      "radius": 30
+    },
+    {
+      "id": "wp-11",
+      "name": "Circle 1st Exit:W",
+      "lat": -33.81876815110445,
+      "lng": 18.634761460125446,
+      "radius": 30
+    },
+    {
+      "id": "wp-12",
+      "name": "Finish  line",
+      "lat": -33.81890058517456,
+      "lng": 18.63328456878662,
+      "radius": 30
+    }
+  ],
+  "assets": {
+    "tulipsPath": "assets/tulips/",
+    "iconsPath": "assets/icons/"
+  }
+}
