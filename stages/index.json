@@ -23,9 +23,9 @@
       {
       "id": "DaisyWay",
       "name": "Daisy Way",
-      "startArea": "ZA|Western Cape|Cape Town|Newlands",
+      "startArea": "ZA|Western Cape|Cape Town|Table View",
       "start": { "lat": -33.8301484, "lng": 18.4846223},
-      "endArea": "ZA|Western Cape|Cape Town|Table View",
+      "endArea": "ZA|Western Cape|Cape Town|Newlands",
       "distance": "22.26km",
       "file": "DaisyWay.json"
     }
