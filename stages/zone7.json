@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "stageId": "zone7",
+    "name": "Zone 7",
+    "version": "1.0",
+    "createdAt": "2026-02-07T08:45:17.150Z",
+    "distanceUnit": "km",
+    "author": "Andre Welgemoed",
+    "offline": true
+  },
+  "settings": {
+    "defaultWaypointRadius": 30,
+    "highlightWindowKm": 0.3
+  },
+  "items": [
+    {
+      "id": "rb-001",
+      "distance": 0,
+      "title": "Zone 7:NNE",
+      "note": "",
+      "tulip": {
+        "file": "",
+        "orientation": "NNE"
+      },
+      "waypointId": "wp-1"
+    },
+    {
+      "id": "rb-002",
+      "distance": 4.01,
+      "title": "Caution Right Hairpin:E",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-2"
+    },
+    {
+      "id": "rb-003",
+      "distance": 4.83,
+      "title": "Caution Right Hairpin:E",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-3"
+    },
+    {
+      "id": "rb-004",
+      "distance": 6.63,
+      "title": "Left onto Gravel:NW",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-4"
+    },
+    {
+      "id": "rb-005",
+      "distance": 10.2,
+      "title": "U-Turn:SE",
+      "note": "",
+      "tulip": {
+        "file": "",
+        "orientation": ""
+      },
+      "waypointId": "wp-5"
+    },
+    {
+      "id": "rb-006",
+      "distance": 13.76,
+      "title": "Left onto Tar:NNE",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-6"
+    },
+    {
+      "id": "rb-007",
+      "distance": 16.41,
+      "title": "Straight:NNE",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-7"
+    },
+    {
+      "id": "rb-008",
+      "distance": 17.81,
+      "title": "Junction Left:W",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-8"
+    },
+    {
+      "id": "rb-009",
+      "distance": 22.16,
+      "title": "Circle first exit:S",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-9"
+    },
+    {
+      "id": "rb-010",
+      "distance": 22.32,
+      "title": "Finish - stop",
+      "note": "",
+      "tulip": {
+        "file": "straight.png",
+        "orientation": "north"
+      },
+      "waypointId": "wp-10"
+    }
+  ],
+  "waypoints": [
+    {
+      "id": "wp-1",
+      "name": "Start - Zone 7:NNE",
+      "lat": -33.7630033493042,
+      "lng": 18.55170249938965,
+      "radius": 30
+    },
+    {
+      "id": "wp-2",
+      "name": "WP1 - Caution Right Hairpin",
+      "lat": -33.72881172224879,
+      "lng": 18.565343460068107,
+      "radius": 30
+    },
+    {
+      "id": "wp-3",
+      "name": "WP2 - Caution Right Hairpin",
+      "lat": -33.722528982907534,
+      "lng": 18.56994839385152,
+      "radius": 30
+    },
+    {
+      "id": "wp-4",
+      "name": "WP3 - Left onto Gravel",
+      "lat": -33.71034890413284,
+      "lng": 18.582763401791453,
+      "radius": 30
+    },
+    {
+      "id": "wp-5",
+      "name": "WP4 - Caution U-turn",
+      "lat": -33.695197105407715,
+      "lng": 18.548827171325684,
+      "radius": 30
+    },
+    {
+      "id": "wp-6",
+      "name": "WP5 - Left onto Tar",
+      "lat": -33.710283525288105,
+      "lng": 18.582796677947044,
+      "radius": 30
+    },
+    {
+      "id": "wp-7",
+      "name": "WP6 - Straight",
+      "lat": -33.68913095444441,
+      "lng": 18.595937406644225,
+      "radius": 30
+    },
+    {
+      "id": "wp-8",
+      "name": "WP7 - Junction Left",
+      "lat": -33.67865474894643,
+      "lng": 18.60417195595801,
+      "radius": 30
+    },
+    {
+      "id": "wp-9",
+      "name": "WP8 - Circle first exit",
+      "lat": -33.66397351026535,
+      "lng": 18.56067968532443,
+      "radius": 30
+    },
+    {
+      "id": "wp-10",
+      "name": "Finish - stop",
+      "lat": -33.66466535255313,
+      "lng": 18.559162225574255,
+      "radius": 30
+    }
+  ],
+  "assets": {
+    "tulipsPath": "assets/tulips/",
+    "iconsPath": "assets/icons/"
+  }
+}
