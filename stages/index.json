@@ -15,7 +15,7 @@
       "id": "zone7",
       "name": "Zone 7",
       "startArea": "ZA|Western Cape|Cape Town|Cape Farms",
-      "start": { "lat": -33.8008398, "lng": 18.5032926 },
+      "start": { "lat": -33.7631993, "lng": 18.5519454},
       "endArea": "ZA|Western Cape|Cape Town|Philadelphia",
       "distance": "24km",
       "file": "zone7.json"
