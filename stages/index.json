@@ -19,6 +19,15 @@
       "endArea": "ZA|Western Cape|Cape Town|Philadelphia",
       "distance": "24km",
       "file": "zone7.json"
+    },
+      {
+      "id": "daisyWay",
+      "name": "Daisy Way",
+      "startArea": "ZA|Western Cape|Cape Town|Cape Farms",
+      "start": { "lat": -33.7631993, "lng": 18.5519454},
+      "endArea": "ZA|Western Cape|Cape Town|Philadelphia",
+      "distance": "22.8km",
+      "file": "DaisyWay.json"
     }
   ]
 }
