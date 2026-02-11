@@ -3,9 +3,9 @@
   "updatedAt": "2026-02-10",
   "stages": [
     {
-      "id": "adventureCityLoop",
-      "name": "Adventure City Loop",
-      "file": "adventureCityLoop.json"
+      "id": "ParklandsToBootlegger",
+      "name": "Parklands To Bootlegger",
+      "file": "ParklandsToBootlegger.json"
     },
     {
       "id": "zone7",
