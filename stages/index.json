@@ -6,7 +6,7 @@
       "id": "ParklandsToBootlegger",
       "name": "Parklands To Bootlegger",
       "startArea": "ZA|Western Cape|Cape Town|Table View",
-      "start": { "lat": --33.8184075885906, "lng": 18.632927313007567},
+      "start": { "lat": -33.8184075885906, "lng": 18.632927313007567},
       "endArea": "ZA|Western Cape|Cape Town|Durbanville",
       "distanceKm": 12,
       "file": "ParklandsToBootlegger.json"
