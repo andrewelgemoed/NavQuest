@@ -17,7 +17,7 @@
       "startArea": "ZA|Western Cape|Cape Town|Cape Farms",
       "start": { "lat": -33.7631993, "lng": 18.5519454},
       "endArea": "ZA|Western Cape|Cape Town|Philadelphia",
-      "distanceKm": "24km",
+      "distanceKm": 24,
       "file": "zone7.json"
     },
       {
@@ -26,7 +26,7 @@
       "startArea": "ZA|Western Cape|Cape Town|Table View",
       "start": { "lat": -33.8301484, "lng": 18.4846223},
       "endArea": "ZA|Western Cape|Cape Town|Newlands",
-      "distanceKm": "22.26km",
+      "distanceKm": 22.26,
       "file": "DaisyWay.json"
     }
   ]
