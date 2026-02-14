@@ -7,6 +7,7 @@
       "name": "Parklands To Bootlegger",
       "startArea": "ZA|Western Cape|Cape Town|Table View",
       "start": { "lat": -33.80088851925642, "lng": 18.503314416100984},
+      "end": { "lat": -33.81890058517456, "lng": 18.63328456878662},
       "endArea": "ZA|Western Cape|Cape Town|Durbanville",
       "distanceKm": 12,
       "file": "ParklandsToBootlegger.json"
@@ -16,6 +17,7 @@
       "name": "Zone 7",
       "startArea": "ZA|Western Cape|Cape Town|Cape Farms",
       "start": { "lat": -33.7631993, "lng": 18.5519454},
+      "end": { "lat": -33.81890058517456, "lng": 18.63328456878662},
       "endArea": "ZA|Western Cape|Cape Town|Philadelphia",
       "distanceKm": 24,
       "file": "zone7.json"
