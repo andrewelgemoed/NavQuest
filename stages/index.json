@@ -37,7 +37,7 @@
     "name": "Test Route - New Waypoints 01",
     "startArea": "Cape Town | City Bowl",
     "start": { "lat": -33.91455, "lng": 18.40985 },
-    "end": { "lat": -33.929300, "lng": 118.409200},  
+    "end": { "lat": -33.929300, "lng": 18.409200},  
     "endArea": "Cape Town | Atlantic Seaboard",  
     "distanceKm": 12.4,  
     "file": "testRoute_newWaypoints_01.json"    
