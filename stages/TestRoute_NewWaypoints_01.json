@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "stageId": "TestRoute_NewWaypoints_01",
+    "name": "Test Route - New Waypoints 01",
+    "version": "1.0",
+    "createdAt": "2026-02-14T06:00:00.000Z",
+    "distanceUnit": "km",
+    "author": "ChatGPT",
+    "offline": true
+  },
+  "settings": {
+    "defaultWaypointRadius": 30,
+    "highlightWindowKm": 0.3
+  },
+  "items": [
+    {
+      "id": "rb-001",
+      "distance": 0,
+      "title": "Start:NE",
+      "note": "",
+      "tulip": { "file": "straight.png", "orientation": "north" },
+      "waypointId": "wp-t1"
+    },
+    {
+      "id": "rb-002",
+      "distance": 1.2,
+      "title": "Junction Right:E",
+      "note": "",
+      "tulip": { "file": "straight.png", "orientation": "north" },
+      "waypointId": "wp-t2"
+    },
+    {
+      "id": "rb-003",
+      "distance": 2.85,
+      "title": "Straight:E",
+      "note": "",
+      "tulip": { "file": "straight.png", "orientation": "north" },
+      "waypointId": "wp-t3"
+    },
+    {
+      "id": "rb-004",
+      "distance": 4.1,
+      "title": "Circle 2nd Exit:S",
+      "note": "",
+      "tulip": { "file": "straight.png", "orientation": "north" },
+      "waypointId": "wp-t4"
+    },
+    {
+      "id": "rb-005",
+      "distance": 5.6,
+      "title": "Hairpin Left:SE",
+      "note": "",
+      "tulip": { "file": "straight.png", "orientation": "north" },
+      "waypointId": "wp-t5"
+    },
+    {
+      "id": "rb-006",
+      "distance": 7.0,
+      "title": "Junction Left:S",
+      "note": "",
+      "tulip": { "file": "straight.png", "orientation": "north" },
+      "waypointId": "wp-t6"
+    },
+    {
+      "id": "rb-007",
+      "distance": 8.9,
+      "title": "Offramp Right:SW",
+      "note": "",
+      "tulip": { "file": "straight.png", "orientation": "north" },
+      "waypointId": "wp-t7"
+    },
+    {
+      "id": "rb-008",
+      "distance": 10.4,
+      "title": "Straight:W",
+      "note": "",
+      "tulip": { "file": "straight.png", "orientation": "north" },
+      "waypointId": "wp-t8"
+    },
+    {
+      "id": "rb-009",
+      "distance": 11.6,
+      "title": "Circle 1st Exit:NW",
+      "note": "",
+      "tulip": { "file": "straight.png", "orientation": "north" },
+      "waypointId": "wp-t9"
+    },
+    {
+      "id": "rb-010",
+      "distance": 12.4,
+      "title": "Finish line",
+      "note": "",
+      "tulip": { "file": "straight.png", "orientation": "north" },
+      "waypointId": "wp-t10"
+    }
+  ],
+  "waypoints": [
+    {
+      "id": "wp-t1",
+      "name": "Start:NE",
+      "lat": -33.914550,
+      "lng": 18.409850,
+      "radius": 30
+    },
+    {
+      "id": "wp-t2",
+      "name": "Junction Right:E",
+      "lat": -33.905900,
+      "lng": 18.421300,
+      "radius": 30
+    },
+    {
+      "id": "wp-t3",
+      "name": "Straight:E",
+      "lat": -33.899800,
+      "lng": 18.439900,
+      "radius": 30
+    },
+    {
+      "id": "wp-t4",
+      "name": "Circle 2nd Exit:S",
+      "lat": -33.909600,
+      "lng": 18.456800,
+      "radius": 30
+    },
+    {
+      "id": "wp-t5",
+      "name": "Hairpin Left:SE",
+      "lat": -33.923900,
+      "lng": 18.470200,
+      "radius": 30
+    },
+    {
+      "id": "wp-t6",
+      "name": "Junction Left:S",
+      "lat": -33.936400,
+      "lng": 18.468700,
+      "radius": 30
+    },
+    {
+      "id": "wp-t7",
+      "name": "Offramp Right:SW",
+      "lat": -33.948100,
+      "lng": 18.455600,
+      "radius": 30
+    },
+    {
+      "id": "wp-t8",
+      "name": "Straight:W",
+      "lat": -33.949600,
+      "lng": 18.434900,
+      "radius": 30
+    },
+    {
+      "id": "wp-t9",
+      "name": "Circle 1st Exit:NW",
+      "lat": -33.937900,
+      "lng": 18.422200,
+      "radius": 30
+    },
+    {
+      "id": "wp-t10",
+      "name": "Finish line",
+      "lat": -33.929300,
+      "lng": 18.409200,
+      "radius": 30
+    }
+  ],
+  "assets": {
+    "tulipsPath": "assets/tulips/",
+    "iconsPath": "assets/icons/"
+  }
+}
