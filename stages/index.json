@@ -17,7 +17,7 @@
       "name": "Zone 7",
       "startArea": "ZA|Western Cape|Cape Town|Cape Farms",
       "start": { "lat": -33.7631993, "lng": 18.5519454},
-      "end": { "lat": -33.81890058517456, "lng": 18.63328456878662},
+      "end": { "lat": -33.66466535255313, "lng": 18.559162225574255},
       "endArea": "ZA|Western Cape|Cape Town|Philadelphia",
       "distanceKm": 24,
       "file": "zone7.json"
@@ -27,22 +27,20 @@
       "name": "Daisy Way",
       "startArea": "ZA|Western Cape|Cape Town|Table View",
       "start": { "lat": -33.8301484, "lng": 18.4846223},
+      "end": { "lat": -33.98114497773349, "lng": 18.45096291974187},
       "endArea": "ZA|Western Cape|Cape Town|Newlands",
       "distanceKm": 22.26,
       "file": "DaisyWay.json"
     },
     {
-      "id": "testRouteNewWaypoints01",
+    "id": "testRouteNewWaypoints01",
     "name": "Test Route - New Waypoints 01",
-    "file": "testRoute_newWaypoints_01.json",
     "startArea": "Cape Town | City Bowl",
-    "endArea": "Cape Town | Atlantic Seaboard",
-    "distanceKm": 12.4,
-    "start": {
-    "lat": -33.91455,
-    "lng": 18.40985
-  }
-}
-
+    "start": { "lat": -33.91455, "lng": 18.40985 },
+    "end": { "lat": -33.929300, "lng": 118.409200},  
+    "endArea": "Cape Town | Atlantic Seaboard",  
+    "distanceKm": 12.4,  
+    "file": "testRoute_newWaypoints_01.json"    
+    }
   ]
 }
